@@ -1,4 +1,4 @@
-### xss-payload sjsjjsjjsjssjjjjsjsjsjdjjdjdjdksioddikd
+### xss-payload
 ```
 "-prompt(8)-"
 '-prompt(8)-'
